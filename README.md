@@ -1,2 +1,14 @@
-# Final-Assignment-2021
-This is my final assignment for SC subject in JMC 2020/2021. Marks: 29/30
+
+# Final Assignment 
+
+This program should be able to find and display the list of all even,odd and semi-detached house number.
+## Target
+
+- Display the even house number
+- Display the odd house number
+- Display the semi-detached house number
+
+## Feedback
+
+If you have any feedback, please reach out to us at nurunnajwa21@gmail.com
+
